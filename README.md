@@ -6,14 +6,8 @@
 <h3 align="center">😀 About ME 😀</h3>
 <div align="center">
   🏫Chungang University Collage of Art & Technology 
-  </a>
-</div>
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://www.instagram.com/1oa.ding/">
-    <img src="https://img.shields.io/badge/@1oa.ding-E4405F.svg?style=flat-square&logo=instagram&logoColor=ffffff"/>&nbsp
-  </a>
-  <img src="https://img.shields.io/badge/seoyoung7553@gmail.com-EA4335.svg?style=flat-square&logo=gmail&logoColor=ffffff"/>&nbsp
+  🎂2004.11.11
+  ☎️010-3350-7553
   </a>
 </div>
 <h3 align="center">😎 Project 😎</h3>
@@ -21,6 +15,8 @@
   <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
     <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=ffffff"/>&nbsp
   </a>
+  <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=ffffff"/>&nbsp
 </div>
 <h3 align="center">✏️ Learning ✏️</h3>
 <div align="center">
@@ -32,4 +28,11 @@
   </a>
   <a href="https://www.adobe.com/kr/">
     <img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=ffffff"/>&nbsp
+  </a>
+  <h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://www.instagram.com/1oa.ding/">
+    <img src="https://img.shields.io/badge/@1oa.ding-E4405F.svg?style=flat-square&logo=instagram&logoColor=ffffff"/>&nbsp
+  </a>
+  <img src="https://img.shields.io/badge/seoyoung7553@gmail.com-EA4335.svg?style=flat-square&logo=gmail&logoColor=ffffff"/>&nbsp
   </a>
