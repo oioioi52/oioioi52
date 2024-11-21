@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 <h3 align="center">😎 Project 😎</h3>
 <div align="center">
   <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
-    <img src="https://img.shields.io/badge/@youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=ffffff"/>&nbsp
+    <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=ffffff"/>&nbsp
   </a>
 
