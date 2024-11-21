@@ -18,3 +18,4 @@ https://capsule-render.vercel.app/api?
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ff92b1&height=300&section=header&text=Hello%20World%20🤗&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oioioi52&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oioioi52&layout=compact)
+<img src="https://img.shields.io/badge/adobephotoshop-20232a.svg?style=plastic&logo=adobephotoshop&logoColor=31A8FF" />
