@@ -17,5 +17,14 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffc1cc,100:ffabb9&height=300&section=header&text=Welcome%20to%20oioioi52%20world🤗&fontSize=60)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oioioi52&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oioioi52&layout=compact)
-<img src="https://img.shields.io/badge/seoyoung7553@gmail.com-ffffff.svg?style=plastic&logo=gmail&logoColor=EA4335" />
-<img src="https://img.shields.io/badge/@1oa.ding-ffffff.svg?style=plastic&logo=instagram&logoColor=E4405F" />
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://www.instagram.com/1oa.ding/">
+    <img src="https://img.shields.io/badge/@1oa.ding-ffffff.svg?style=plastic&logo=instagram&logoColor=E4405F"/>&nbsp
+  </a>
+  <a href="mailto:seoyoung7553@gmail.com">
+    <img src="https://img.shields.io/badge/seoyoung7553@gmail.com-ffffff.svg?style=plastic&logo=gmail&logoColor=EA4335"/>&nbsp
+  </a>
+</div>
+
+
