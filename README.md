@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.instagram.com/1oa.ding/">
-    <img src="https://img.shields.io/badge/@1oa.ding-ffffff.svg?style=plastic&logo=instagram&logoColor=E4405F"/>&nbsp
+    <img src="https://img.shields.io/badge/@1oa.ding-ffffff.svg?style=flat-square&logo=instagram&logoColor=E4405F"/>&nbsp
   </a>
   <img src="https://img.shields.io/badge/seoyoung7553@gmail.com-ffffff.svg?style=flat-square&logo=gmail&logoColor=EA4335"/>&nbsp
   </a>
