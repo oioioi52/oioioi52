@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oioioi52&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oioioi52&layout=compact)
 <img src="https://img.shields.io/badge/youtube-ffffff.svg?style=plastic&logo=youtube&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/instagram-ffffff.svg?style=plastic&logo=instagram&logoColor=E4405F" />
