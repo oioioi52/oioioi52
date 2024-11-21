@@ -16,4 +16,15 @@
   <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
     <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=ffffff"/>&nbsp
   </a>
-
+</div>
+<h3 align="center">✏️ Learning ✏️</h3>
+<div align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=ffffff"/>&nbsp
+  </a>
+  <a href="https://www.adobe.com/kr/">
+    <img src="https://img.shields.io/badge/adobephotoshop-31A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=ffffff"/>&nbsp
+  </a>
+  <a href="https://www.adobe.com/kr/">
+    <img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=ffffff"/>&nbsp
+  </a>
