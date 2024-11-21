@@ -6,11 +6,12 @@
 <h3 align="center">😀 About ME 😀</h3>
 <div align="center">
   🏫Chungang University Collage of Art & Technology 
+  </a>
 </div>
   🎂2004.11.11
+  </a>
 </div>
   ☎️010-3350-7553
-</div>
   </a>
 </div>
 <h3 align="center">😎 Project 😎</h3>
