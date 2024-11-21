@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oioioi52&layout=compact)
 <h3 align="center">😀 About ME 😀</h3>
 <div align="center">
-  🏫Chungang University Collage of Art & Technology 
+  🏫Collage of Art & Technology 
   </a>
 </div>
 <div align="center">
