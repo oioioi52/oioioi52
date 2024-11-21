@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
     <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=ffffff"/>&nbsp
   </a>
-  <a href="https://github.com/oioioi52/oioioi52">
+  <a href="https://github.com/oioioi52/pikmin">
     <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=ffffff"/>&nbsp
 </div>
 <h3 align="center">✏️ Learning ✏️</h3>
