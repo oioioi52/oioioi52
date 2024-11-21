@@ -1,4 +1,4 @@
-## Hi there 👋
+## Each line of code you write is a step toward building something amazing.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffc1cc,100:ffabb9&height=200&section=header&text=Hello%20World🤗&fontSize=60)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oioioi52&show_icons=true&theme=radical)
