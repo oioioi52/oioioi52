@@ -6,8 +6,11 @@
 <h3 align="center">😀 About ME 😀</h3>
 <div align="center">
   🏫Chungang University Collage of Art & Technology 
+</div>
   🎂2004.11.11
+</div>
   ☎️010-3350-7553
+</div>
   </a>
 </div>
 <h3 align="center">😎 Project 😎</h3>
@@ -15,7 +18,7 @@
   <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
     <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=ffffff"/>&nbsp
   </a>
-  <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
+  <a href="https://github.com/oioioi52/oioioi52">
     <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=ffffff"/>&nbsp
 </div>
 <h3 align="center">✏️ Learning ✏️</h3>
