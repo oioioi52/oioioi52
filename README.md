@@ -8,7 +8,11 @@
   🏫Chungang University Collage of Art & Technology 
   </a>
 </div>
+<div align="center">
   🎂2004.11.11
+  </a>
+</div>
+<div align="center">
   ☎️010-3350-7553
   </a>
 </div>
