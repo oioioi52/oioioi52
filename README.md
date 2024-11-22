@@ -12,10 +12,6 @@
   🎂2004.11.11
   </a>
 </div>
-<div align="center">
-  ☎️010-3350-7553
-  </a>
-</div>
 <h3 align="center">😎 Project 😎</h3>
 <div align="center">
   <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
@@ -42,3 +38,7 @@
   </a>
   <img src="https://img.shields.io/badge/seoyoung7553@gmail.com-EA4335.svg?style=flat-square&logo=gmail&logoColor=ffffff"/>&nbsp
   </a>
+<div align="center">
+  ☎️010-3350-7553
+  </a>
+</div>
