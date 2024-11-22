@@ -12,6 +12,19 @@
   🎂2004.11.11
   </a>
 </div>
+<h3 align="center">❤️ Things I like ❤️</h3>
+<div align="center">
+  🍽️salad pasta, 떡볶이, dessert 
+  </a>
+</div>
+<div align="center">
+  🎵k-pop idol
+  </a>
+</div>
+<div align="center">
+  🐶capybara, dog cat ...
+  </a>
+</div>
 <h3 align="center">😎 Project 😎</h3>
 <div align="center">
   <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
