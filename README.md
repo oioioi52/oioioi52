@@ -38,10 +38,12 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=ffffff"/>&nbsp
   </a>
-  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=flat-square&logo=c&logoColor=ffffff"/>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=c&logoColor=ffffff"/>&nbsp
   </a>
-  <img src="https://img.shields.io/badge/cplusplus-00599C.svg?style=flat-square&logo=cplusplus&logoColor=ffffff"/>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=cplusplus&logoColor=ffffff"/>&nbsp
   </a>
+</div>
+<div align="center">
   <a href="https://www.adobe.com/kr/">
     <img src="https://img.shields.io/badge/adobephotoshop-31A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=ffffff"/>&nbsp
   </a>
