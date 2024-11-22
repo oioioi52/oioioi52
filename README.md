@@ -20,7 +20,7 @@
   </a>
 </div>
 <div align="center">
-  🐶capybara, dog cat ...
+  🐶capybara, dog, cat ...
   </a>
 </div>
 <h3 align="center">😎 Project 😎</h3>
