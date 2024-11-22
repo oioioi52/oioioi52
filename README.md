@@ -14,7 +14,7 @@
 </div>
 <h3 align="center">❤️ Things I like ❤️</h3>
 <div align="center">
-  🍽️salad pasta, 떡볶이, dessert 
+  🍽️salad pasta, dessert 
   </a>
 </div>
 <div align="center">
