@@ -25,11 +25,11 @@
 </div>
 <h3 align="center">😎 Project 😎</h3>
 <div align="center">
-  <a href="https://www.youtube.com/@%EC%84%9C%EC%98%81-z6q">
+  <a href="https://youtu.be/1bnSJlepJwA?feature=shared">
     <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=ffffff"/>&nbsp
   </a>
-  <a href="https://github.com/oioioi52/pikmin">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=ffffff"/>&nbsp
+  <a href="https://youtu.be/Igdg0ny2brI?feature=shared">
+    <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=flat-square&logo=youtube&logoColor=ffffff"/>&nbsp
 </div>
 <h3 align="center">✏️ Learning ✏️</h3>
 <div align="center">
